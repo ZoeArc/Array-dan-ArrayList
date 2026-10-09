@@ -64,7 +64,7 @@ Repository: [https://github.com/ZoeArc/Array-dan-ArrayList](https://github.com/Z
 
 ### Hasil Output Program
 
-![Output Program](screenshots/output.png)
+![Output Program](Screenshots/output.png)
 
 ### Skenario Transaksi pada `Main.java`
 
